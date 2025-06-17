@@ -24,7 +24,7 @@
 
     // Make an API request to get the user's country data
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://freeipapi.com/api/json", true); // Make the GET request to the API
+    xhr.open("GET", "https://ipapi.co/json", true); // Make the GET request to the API
     xhr.send(); // Send the request
     xhr.responseType = "json"; // Expect a JSON response
     
